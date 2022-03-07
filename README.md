@@ -8,7 +8,7 @@ The computer code and data files made available are distributed under the GNU LG
 
 <b>Languages:</b>
 
-<em>polyomino_parity</em> is available here in a MATLAB version.
+<em>pariominoes</em> is available here in a MATLAB version.
 
 <b>Related Data and Programs:</b>
 
