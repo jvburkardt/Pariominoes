@@ -1,6 +1,6 @@
 <b>Repository:</b>
 
-<em>pariominoes</em> is a collection of MATLAB codes which uses checkerboard colouring arguments to attempt to improve the efficiency of an LP approach for tiling finite regions of the plane with polyominoes (see the Github repository <em>polyominoes</em>).
+<em>pariominoes</em> is a collection of MATLAB codes which uses checkerboard colouring arguments to attempt to improve the efficiency of an LP approach for tiling finite regions of the plane with polyominoes (see my Github repository <em>polyominoes</em>).
 
 <b>Licensing:</b>
 
