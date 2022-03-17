@@ -17,9 +17,12 @@ see <br>https://people.sc.fsu.edu/~jburkardt/m_src/pariomino/pariomino.html
 
 <b>References:</b>
 
-<b>References:</b>
-
 <ol>
+<li>Marcus Garvie, John Burkardt,
+A ‘divide-and-conquer’ approach for tiling finite regions of
+the plane with polyominoes. Part II: Numerical solution.
+Submitted 2022. </li>
+  
 <li>Marcus Garvie, John Burkardt,
 A new mathematical model for tiling finite regions of the plane with polyominoes,
 Contributions to Discrete Mathematics,
